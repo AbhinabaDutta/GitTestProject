@@ -5,6 +5,8 @@ Change :-> to implement Login feature ands update some code
 
 Change :-> to test logout feature
 
-Change :-> to fix bug1
-
 Change :-> To test 3-way merge hence, change by team mate for some random feature
+
+Change :-> To fix bug1
+
+Change :-> to fix bug2
