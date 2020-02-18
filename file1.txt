@@ -1,12 +1,14 @@
 Hello world!
 
 
-Change :-> to implement Login feature ands update some code
+1. Change :-> to implement Login feature ands update some code
 
-Change :-> to test logout feature
+2. Change :-> to test logout feature
 
-Change :-> To test 3-way merge hence, change by team mate for some random feature
+3. Change :-> To test 3-way merge hence, change by team mate for some random feature
 
-Change :-> To fix bug1
+4. Change :-> To fix bug1
 
-Change :-> to fix bug2
+5. Change :-> to fix bug2
+
+6. Change :-> To check rebase hence, change by team mate from remote machine
