@@ -4,3 +4,5 @@ Hello world!
 Change :-> to implement Login feature ands update some code
 
 Change :-> to test logout feature
+
+Change :-> to fix bug1
